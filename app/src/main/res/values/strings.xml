@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SrSraLayout</string>
+    <string name="in_name">Introduce tu nombre:</string>
+    <string name="rb_sr">Sr</string>
+    <string name="rb_sra">Sra</string>
+    <string name="en_esta">EN ESTA VENTANA</string>
+    <string name="en_otra">IR A OTRA VENTANA</string>
+    <string name="volver">VOLVER</string>
+</resources>
